@@ -1,0 +1,15 @@
+body{
+    background-image:url("hero-bg.jpg");
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+.header{
+    display: inline-flex;
+}
+.container-fluid{
+    box-shadow: black;
+}
+#baseball{
+    color:blue;
+    margin-left: 70px;
+}
